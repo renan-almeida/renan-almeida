@@ -16,7 +16,7 @@
 **`Estudante de Desenvolvimetento de Sistemas`**
 
 
-My name is Danillo de Lacerda Gomes dos Santos, I'm 17 years old, and I live in São Paulo, Brazil. I am currently studying Analysis and Systems Development at ETEC. I am always looking to expand my knowledge in technology, learning new programming languages and development tools.
+Meu nome é Renan Almeida Dantas, tenho 17 anos de idade, atualmente moro em São Paulo - SP, Estudo Análise e Desenvolvimento de Sistemas na Etec Horácio Augusto da Silveira, Seja Bem-vindo ao meu perfil!
 
 ### Tools I Use:
   <img 
