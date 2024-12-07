@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F5CC2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Renan+Almeida+Dantas;eu+tenho+17+anos;Eu+sou+de+São+Paulo,+Brasil;Eu+Estudo+Analise+e+Desenvolvimento+de+Sistemas+na+Etec;seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danillo-L&show_icons=true&count_private=true&hide_border=true&title_color=7308EF&icon_color=7308EF&text_color=c9d1d9&bg_color=0d1117" alt="Danillo de Lacerda Gomes dos Santos" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danillo-L&layout=compact&hide_border=true&title_color=7308EF&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=renan-almeida&show_icons=true&count_private=true&hide_border=true&title_color=0f5cc2&icon_color=0f5cc2&text_color=c9d1d9&bg_color=0d1117" alt="Renan Almeida Dantas" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-almeida&layout=compact&hide_border=true&title_color=7308EF&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renan-almeida&bg_color=000000&color=7308EF&line=ffffff&point=0f5cc2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
