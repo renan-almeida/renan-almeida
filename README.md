@@ -18,7 +18,7 @@
 
 Meu nome é Renan Almeida Dantas, tenho 17 anos de idade, atualmente moro em São Paulo - SP, Estudo Análise e Desenvolvimento de Sistemas na Etec Horácio Augusto da Silveira, Seja Bem-vindo ao meu perfil!
 
-### Tools I Use:
+### Minhas ferramentas de produção:
   <img 
     align="left"
     alt="VSCode"
@@ -82,19 +82,21 @@ Meu nome é Renan Almeida Dantas, tenho 17 anos de idade, atualmente moro em Sã
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
 
+   <img 
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/npm/@types/mysql@2.15.26/+esm"
+  />
+
   <br>
   <br>
 
   ### Languages I Use:
 
-<img 
-  align="left"
-  alt="C"
-  title="C"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
+
 
 <img 
   align="left"
