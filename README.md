@@ -88,7 +88,7 @@ Meu nome é Renan Almeida Dantas, tenho 17 anos de idade, atualmente moro em Sã
     title="MySQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/npm/@types/mysql@2.15.26/+esm"
+    src="[https://cdn.jsdelivr.net/npm/@types/mysql@2.15.26/+esm](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dmysql%2BLogo&psig=AOvVaw2sP_CZzEf6E-IW9Spxg1pI&ust=1741659123712000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiPxf23_osDFQAAAAAdAAAAABAT)"
   />
 
   <br>
