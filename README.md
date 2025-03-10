@@ -100,11 +100,11 @@ Meu nome é Renan Almeida Dantas, tenho 17 anos de idade, atualmente moro em Sã
 
 <img 
   align="left"
-  alt="C++"
-  title="C++"
+  alt="C"
+  title="C"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
  />
 
 <img 
@@ -155,6 +155,40 @@ Meu nome é Renan Almeida Dantas, tenho 17 anos de idade, atualmente moro em Sã
  <br>
  <br>
  <br>
+
+ ### Frameworks que utilizo para desenvolver:
+
+  <img 
+  align="left"
+  alt="React"
+  title="React"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+ />
+
+  <img 
+  align="left"
+  alt="Spring Framework"
+  title="Spring Framework"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+ />
+
+  <img 
+  align="left"
+  alt=".NET Framework"
+  title=".NET Framework"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AMicrosoft_.NET_logo.svg&psig=AOvVaw0X63AvV0YptRMCYPlvchmG&ust=1741659877755000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiquOS6_osDFQAAAAAdAAAAABAE"
+ />
+
+ 
+
+
+ 
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
