@@ -25,7 +25,10 @@ Meu nome é Renan Almeida Dantas, tenho 17 anos de idade, atualmente moro em Sã
     width="30px"
     style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+   <br>
  ### Acesse meu LinkedIn: 
+ <br>
+ <br>
 
 ### Minhas ferramentas de produção:
   <img 
