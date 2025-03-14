@@ -18,7 +18,7 @@
 
 Meu nome é Renan Almeida Dantas, tenho 17 anos de idade, atualmente moro em São Paulo - SP, Estudo Análise e Desenvolvimento de Sistemas na Etec Horácio Augusto da Silveira, Seja Bem-vindo ao meu perfil!
 
- <img src="./icons/LinkedIn.svg" width="48">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
  ### Acesse meu LinkedIn: 
 
 ### Minhas ferramentas de produção:
